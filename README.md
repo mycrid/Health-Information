@@ -3,7 +3,7 @@ ______________________________________________
 
 
 ## <span style="color:#011189">지원서비스</span>                            
-!https://github.com/mycrid/chatBot/blob/main/istockphoto-876593758-170667a.jpg
+![image](https://github.com/mycrid/chatBot/blob/main/istockphoto-876593758-170667a.jpg)
 ______________________________________________
 __건강정보봇에 대해 알아봅시다!__
 ###  - 자가진단
