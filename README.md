@@ -9,6 +9,7 @@
 
 
 
+<div align="center">
 
 # <u>건강정보봇에 대해 알아봅시다!</u>
 ![image](https://github.com/mycrid/chatBot/blob/main/istockphoto-876593758-170667a.jpg?raw=true)
@@ -20,6 +21,8 @@
 ###  - <span style="color:blue">코로나-19(Covid-19)현황</span>
 ###  - <span style="color:pink">폭염 상황 대처 요령</span>
 
+
+</div>
 
 
 
