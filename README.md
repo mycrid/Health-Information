@@ -58,7 +58,6 @@
 
 <span style="color:red">코로나와 관련된 정보들을 알 수 있는 사이트를 알아볼 수 있는 기능입니다.
   
-![image](https://thumbs.dreamstime.com/z/smell-icon-vector-quit-smoking-concept-thin-line-illustration-smell-editable-stroke-smell-linear-sign-use-web-192153938.jpg)](http://ncov.mohw.go.kr)
 
 </div>
 </details>
