@@ -1,6 +1,5 @@
 
 
-<div align="center">
   
   
 # 건강정보서비스
@@ -20,6 +19,7 @@
 
 
 
+<div align="center">
 여러분들은 오늘 많은 정보를 배우시게 될거예요!
 <details>
 <summary>자가진단 알아보기</summary>
