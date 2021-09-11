@@ -15,6 +15,9 @@
 
 ## <span style="color:#011189">지원서비스</span>                            
 --------------------------------------------------
+
+ <br> 
+
 ###  - <span style="color:red">자가진단</span>
 <details>
 <summary>자가진단 알아보기</summary>
@@ -25,8 +28,12 @@
 
 </div>
 </details>
+
+ <br> 
+
 ###  - <span style="color:green">응급상황 대처 요령</span>
 <details>
+  
 <summary>응급상황 대처 요령 알아보기</summary>
 <div markdown="1">
 
@@ -35,6 +42,9 @@
 
 </div>
 </details>
+  
+ <br> 
+  
 ###  - <span style="color:blue">코로나-19(Covid-19)현황</span>
 ###  - <span style="color:pink">폭염 상황 대처 요령</span>
 
