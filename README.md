@@ -3,7 +3,7 @@ ______________________________________________
 
 
 ## <span style="color:#011189">지원서비스</span>                            
-![image](https://github.com/mycrid/chatBot/blob/main/istockphoto-876593758-170667a.jpg)
+![image](https://github.com/mycrid/chatBot/blob/main/istockphoto-876593758-170667a.jpg?raw=true)
 
 
 
