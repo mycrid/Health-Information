@@ -50,8 +50,31 @@
  <br> 
  <br> 
   
-###  - <span style="color:blue">코로나-19(Covid-19)현황</span>
-###  - <span style="color:pink">폭염 상황 대처 요령</span>
+###  - <span style="color:blue">코로나-19(Covid-19)현황</span><details>
+ 
+<summary>코로나 정보 알아보기</summary>
+<div markdown="1">
+
+<span style="color:red">코로나와 관련된 정보들을 알 수 있는 사이트를 알아볼 수 있는 기능입니다.
+  
+
+</div>
+</details>
+
+
+ <br> 
+ <br> 
+ <br> 
+
+###  - <span style="color:pink">폭염 상황 대처 요령</span> 
+<summary>폭염 상황 대처 요령 알아보기</summary>
+<div markdown="1">
+
+<span style="color:red">폭염 상황에 대처할 수 있는 요령들을 알려드리는 기능입니다.
+  
+
+</div>
+</details>
 
 
 
