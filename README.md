@@ -50,7 +50,9 @@
  <br> 
  <br> 
   
-###  - <span style="color:blue">코로나-19(Covid-19)현황</span><details>
+###  - <span style="color:blue">코로나-19(Covid-19)현황</span>
+ 
+ <details>
  
 <summary>코로나 정보 알아보기</summary>
 <div markdown="1">
@@ -67,6 +69,8 @@
  <br> 
 
 ###  - <span style="color:pink">폭염 상황 대처 요령</span> 
+  
+<details>  
 <summary>폭염 상황 대처 요령 알아보기</summary>
 <div markdown="1">
 
